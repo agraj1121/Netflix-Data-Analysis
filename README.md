@@ -111,4 +111,4 @@ Netflix-Data-Analysis/
 
 ## Author
 
-Created by Agraj Shukla part of a Data Analysis and Exploratory Data Analysis (EDA) project using Python.
+Created by Agraj Shukla as part of a Data Analysis and Exploratory Data Analysis (EDA) project using Python.
